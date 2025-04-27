@@ -1,0 +1,7 @@
+D:\Users\jeron\MIDTERM_E3_BAYLA_JAYRHON\StudentAPI_Backend\StudentAPI\obj\Debug\net8.0\StudentAPI.csproj.AssemblyReference.cache
+D:\Users\jeron\MIDTERM_E3_BAYLA_JAYRHON\StudentAPI_Backend\StudentAPI\obj\Debug\net8.0\StudentAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jeron\MIDTERM_E3_BAYLA_JAYRHON\StudentAPI_Backend\StudentAPI\obj\Debug\net8.0\StudentAPI.AssemblyInfoInputs.cache
+D:\Users\jeron\MIDTERM_E3_BAYLA_JAYRHON\StudentAPI_Backend\StudentAPI\obj\Debug\net8.0\StudentAPI.AssemblyInfo.cs
+D:\Users\jeron\MIDTERM_E3_BAYLA_JAYRHON\StudentAPI_Backend\StudentAPI\obj\Debug\net8.0\StudentAPI.csproj.CoreCompileInputs.cache
+D:\Users\jeron\MIDTERM_E3_BAYLA_JAYRHON\StudentAPI_Backend\StudentAPI\obj\Debug\net8.0\StudentAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\jeron\MIDTERM_E3_BAYLA_JAYRHON\StudentAPI_Backend\StudentAPI\obj\Debug\net8.0\StudentAPI.MvcApplicationPartsAssemblyInfo.cache

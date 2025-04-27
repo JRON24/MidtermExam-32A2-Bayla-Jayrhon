@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\dtos\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\dtos\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\dtos\\sectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\dtos\\sectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\controllers\\sectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\controllers\\sectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\models\\studentsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\models\\studentsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\dtos\\studentreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\dtos\\studentreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\studentapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\studentapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|c:\\users\\angelo sta ana\\documents\\2nd sem 3rd year\\it elective 3\\studentapi\\studentapi\\studentapi\\studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FE9BADB-7661-4CB3-ADA8-5F78CFBD5352}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "StudentAPI\\DTOs\\StudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:18:29.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Controllers\\SubjectsController.cs",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "StudentAPI\\Controllers\\SubjectsController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:05:34.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SectionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\DTOs\\SectionDTO.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\DTOs\\SectionDTO.cs",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\DTOs\\SectionDTO.cs",
+              "RelativeToolTip": "StudentAPI\\DTOs\\SectionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:18:57.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubjectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\DTOs\\SubjectDTO.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\DTOs\\SubjectDTO.cs",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\DTOs\\SubjectDTO.cs",
+              "RelativeToolTip": "StudentAPI\\DTOs\\SubjectDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:19:26.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Models\\Subject.cs",
+              "RelativeToolTip": "StudentAPI\\Models\\Subject.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:29:21.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Controllers\\SectionsController.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Controllers\\SectionsController.cs",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Controllers\\SectionsController.cs",
+              "RelativeToolTip": "StudentAPI\\Controllers\\SectionsController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:07:03.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentAPI\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA6wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:28:52.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Models\\Section.cs",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Models\\Section.cs",
+              "RelativeToolTip": "StudentAPI\\Models\\Section.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:29:32.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAHYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:19:57.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Models\\Student.cs",
+              "RelativeToolTip": "StudentAPI\\Models\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:29:10.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Program.cs",
+              "RelativeToolTip": "StudentAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:22:53.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentSection.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Models\\StudentSection.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Models\\StudentSection.cs",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Models\\StudentSection.cs",
+              "RelativeToolTip": "StudentAPI\\Models\\StudentSection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:29:43.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T14:38:52.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\DTOs\\StudentReadDTO.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\DTOs\\StudentReadDTO.cs",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\DTOs\\StudentReadDTO.cs",
+              "RelativeToolTip": "StudentAPI\\DTOs\\StudentReadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:02:34.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\appsettings.json",
+              "RelativeToolTip": "StudentAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-19T07:28:23.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentAPI.http",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\StudentAPI.http",
+              "RelativeDocumentMoniker": "StudentAPI\\StudentAPI.http",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\StudentAPI.http",
+              "RelativeToolTip": "StudentAPI\\StudentAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-20T08:20:55.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\StudentAPI.csproj",
+              "RelativeDocumentMoniker": "StudentAPI\\StudentAPI.csproj",
+              "ToolTip": "C:\\Users\\Angelo Sta Ana\\Documents\\2ND SEM 3RD YEAR\\IT ELECTIVE 3\\StudentAPI\\StudentAPI\\StudentAPI\\StudentAPI.csproj",
+              "RelativeToolTip": "StudentAPI\\StudentAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T07:17:48.63Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

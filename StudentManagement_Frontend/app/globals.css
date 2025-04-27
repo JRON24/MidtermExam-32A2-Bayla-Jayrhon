@@ -1,0 +1,40 @@
+/* Import Tailwind CSS */
+@import "tailwindcss";
+
+/* Define custom root variables for light and dark modes */
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --font-sans: 'Arial', Helvetica, sans-serif;
+  --font-mono: 'Courier New', Courier, monospace;
+}
+
+/* Apply theme for light mode */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+}
+
+/* Apply dark mode styling */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+/* Apply background and text color from CSS variables */
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+/* Optional: You can also customize Tailwind's default theme if you want to use custom fonts */
+@layer base {
+  body {
+    font-family: var(--font-sans);
+  }
+}
